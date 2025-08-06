@@ -1,4 +1,4 @@
-## Hi there 👋
+## I just code stuff when I'm bored
 
 ![](https://komarev.com/ghpvc/?username=Mr-milky-way)
 
